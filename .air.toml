@@ -1,0 +1,10 @@
+# .air.toml
+
+# Diretório temporário para o binário
+tmp_dir = "tmp"
+
+# Nome do binário de saída
+bin = "main.exe"
+
+# Caminho principal do seu código Go
+cmd = "main.go"
