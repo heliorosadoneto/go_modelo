@@ -1,7 +1,4 @@
-# Go_,modelo
-
-Projeto em Go com estrutura MVC e hot reload automático via [Air](https://github.com/air-verse/air).
-
+# Go_modelo
 
 ## 🚀 Rodando em modo desenvolvimento
 
